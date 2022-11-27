@@ -1,0 +1,27 @@
+{
+  "name": "fireTV-test1",
+  "version": "1.0.0",
+  "description": "HTML/CSS/JS approach",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve -p 1111"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jean-maupas/fireTV-test1.git"
+  },
+  "keywords": [
+    "fire",
+    "test",
+  ],
+  "author": "Jean Maupas <jean.maupas@gmail.com> (http://maupas.com/)",
+  "license": "TBD",
+  "bugs": {
+    "url": "https://github.com/jean-maupas/fireTV-test1/issues"
+  },
+  "homepage": "https://github.com/jean-maupas/fireTV-test1#readme",
+  "dependencies": {
+    "serve": "^11.1.0"
+  }
+}
